@@ -1,0 +1,19 @@
+{
+  "name": "aco-dash",
+  "version": "1.0.0",
+  "description": "Prepares a dashboard that visualizes data contained in Excel reports from the Coding, CCM, BHCP, and LTSS teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomitch/aco-dash.git"
+  },
+  "author": "Leo Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomitch/aco-dash/issues"
+  },
+  "homepage": "https://github.com/leomitch/aco-dash#readme"
+}
